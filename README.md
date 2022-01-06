@@ -1,2 +1,2 @@
 # R_MS
-Mastering Shiny - digest
+Mastering Shiny - [book](https://mastering-shiny.org/index.html) digest
